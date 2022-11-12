@@ -1,16 +1,16 @@
 # Funi 
 
-# Proje Özeti
-Funi Sabancı Üniversitesindeki bir ekip ile birlikte geliştirmeyi düşündüğümüz öğrencilere yönelik bir indirim kuponu platformu fikriydi.Bu uygulama sayesinde belli başlı üniversitelerdeki öğrenciler o üniversitelerde öğrenci olduklarını doğrulayıp sisteme kayıt olduktan sonra belli sayıdaki indirim kuponlarından ve çeşitli kampanyalardan yararlanabileceklerdi.Böylece öğrenciler için alışveriş yapmayı ve bir şeyler satın almayı son derece kolaylaştırmış bir uygulama ortaya çıkacaktı.
+# Project Summary
+It was the idea of a discount coupon platform for students that we planned to develop together with a team at Funi Sabancı University. Thanks to this application, students at major universities would be able to benefit from a certain number of discount coupons and various campaigns after they verified that they were students at those universities and registered in the system. An application would appear that made purchasing extremely easy.
 
-# Anasayfa
-Anasayfada öne çıkan fırsatları ve sponsorluklu kuponları görebileceksiniz
+# Home
+You will be able to see featured opportunities and sponsored coupons on the homepage.
 
-# Kuponlarım
-Kuponlarım sekmesinden yararlandığınız kuponları ve elinizdeki fırsatları görebileceksiniz.
+# Coupons
+You will be able to see the coupons you have used and the opportunities you have in the My Coupons tab.
 
-# Kategoriler
-Kategoriler sayfasındaki kategorilerden istediğinizi seçip o kategorideki fırsatları görebilecek veya arama sekmesinden kupon arayabileceksiniz.
+# Categories 
+You will be able to select any of the categories on the Categories page and see the opportunities in that category or search for coupons from the search tab.
 
-# Profilim
-Profilim kısmından tıpkı diğer pek çok uygulamada olduğu gibi kullanıcı adınızı profil resminizi ayaralayabilecek,uygulama ayarlarını değiştirebilecek ve Funi puanınızı görebileceksiniz.
+# My Profile
+You will be able to set your user name, profile picture, change the application settings and see your Funi score from the My Profile section, just like in many other applications.
